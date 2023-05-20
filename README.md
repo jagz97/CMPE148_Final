@@ -50,8 +50,8 @@ Visit `http://localhost:5085` in your browser. The app should be up & running.
 
 ```bash
 $ # Get the code
-$ git clone https://github.com/appseed-projects/d7886fe4-9d45-4f74-98a4-2c9b472daa99.git
-$ cd d7886fe4-9d45-4f74-98a4-2c9b472daa99
+$ git clone git@github.com:jagz97/CMPE148_Final.git
+$ cd CMPE148_Final
 ```
 
 <br />
