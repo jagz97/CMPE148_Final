@@ -50,7 +50,7 @@ Visit `http://localhost:5085` in your browser. The app should be up & running.
 
 ```bash
 $ # Get the code
-$ git clone git@github.com:jagz97/CMPE148_Final.git
+$ git clone https://github.com/jagz97/CMPE148_Final.git
 $ cd CMPE148_Final
 ```
 
